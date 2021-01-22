@@ -7,3 +7,10 @@ This software parses the sentences in English Language by implementing a given C
 <p float="center">
   <img src="/docs/grammar.PNG" />
 </p>
+
+## Output
+
+<p float="center">
+  <img src="/output/Valid.PNG" />
+  <img src="/output/Invalid.PNG" />
+</p>
